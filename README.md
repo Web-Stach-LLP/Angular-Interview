@@ -1,35 +1,35 @@
-1.  What is Angular Framework?
+# Angular Interview Questions & Answers
 
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build applications with in web/mobile/desktop. The major features of this framework such as declarative templates, dependency injection, end to end tooling, and many more other features are used to ease the development.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
+---
+<div align="center">
+    <p>
+        <a href="https://youtu.be/-jeoyDJDsSM">
+            25 Angular interview questions with answers video.
+            <div>
+                <img src="https://img.youtube.com/vi/-jeoyDJDsSM/0.jpg" width="150" height="100" alt="Angular">
+            </div>
+        </a>
+    </p>
+</div>
 
+---
 
-2.  What is the difference between AngularJS and Angular?
-    Angular is a completely revived component-based framework in which an application is a tree of individual components.
+## Downloading PDF/Epub formats
 
-    Some of the major difference in tabular form
+You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/angular-interview-questions/actions).
 
-    | AngularJS | Angular |
-    |---- | ---------
-    | It is based on MVC architecture| This is based on Service/Controller|
-    | It uses JavaScript to build the application| Introduced the TypeScript to write the application|
-    | Based on controllers concept| This is a component based UI approach|
-    | Not a mobile friendly framework| Developed considering mobile platform|
-    | Difficulty in SEO friendly application development| Ease to create SEO friendly applications|
+### Table of Contents
 
-
-
-3.  What is TypeScript?
-    TypeScript is a typed superset of JavaScript created by Microsoft that adds optional types, classes, async/await, and many other features, and compiles to plain JavaScript. Angular built entirely in TypeScript and used as a primary language.
-    You can install it globally as
-    ```cmd
-    npm install -g typescript
-    ```
-    Let's see a simple example of TypeScript usage,
-    ```typescript
-    function greeter(person: string) {
-        return "Hello, " + person;
-    }
+| No. | Questions |
+|---- | ---------
+|1 | [What is Angular Framework?](#what-is-angular-framework)|
+|2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
+|3 | [What is TypeScript?](#what-is-typescript)|
+|4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
+|5 | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
+|6 | [What are directives?](#what-are-directives)|
 
 1.  What is Angular Framework?
 
