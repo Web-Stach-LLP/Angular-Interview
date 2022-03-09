@@ -1,49 +1,35 @@
+1.  What is Angular Framework?
+
+    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build applications with in web/mobile/desktop. The major features of this framework such as declarative templates, dependency injection, end to end tooling, and many more other features are used to ease the development.
 
 
 
+2.  What is the difference between AngularJS and Angular?
+    Angular is a completely revived component-based framework in which an application is a tree of individual components.
+
+    Some of the major difference in tabular form
+
+    | AngularJS | Angular |
+    |---- | ---------
+    | It is based on MVC architecture| This is based on Service/Controller|
+    | It uses JavaScript to build the application| Introduced the TypeScript to write the application|
+    | Based on controllers concept| This is a component based UI approach|
+    | Not a mobile friendly framework| Developed considering mobile platform|
+    | Difficulty in SEO friendly application development| Ease to create SEO friendly applications|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3.  What is TypeScript?
+    TypeScript is a typed superset of JavaScript created by Microsoft that adds optional types, classes, async/await, and many other features, and compiles to plain JavaScript. Angular built entirely in TypeScript and used as a primary language.
+    You can install it globally as
+    ```cmd
+    npm install -g typescript
+    ```
+    Let's see a simple example of TypeScript usage,
+    ```typescript
+    function greeter(person: string) {
+        return "Hello, " + person;
+    }
 
 1.  What is Angular Framework?
 
