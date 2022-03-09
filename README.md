@@ -1,4 +1,10 @@
-<span class="class="pl-en""># Angular Interview Questions & Answers </span>
+---
+<div align="center">
+<h1> Angular Interview Questions & Answers <h1>
+</div>
+
+---
+
 
 1.  What is Angular Framework?
 
